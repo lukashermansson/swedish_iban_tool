@@ -3,5 +3,7 @@ name = "swedish_iban_tool"
 version = "0.0.1"
 edition = "2021"
 authors = ["Lukas H"]
+description = "This crate allows the calculation of the IBAN of a bank account in sweden"
+license = "MIT"
 
 [dependencies]
